@@ -1,0 +1,3 @@
+== haml Example
+
+A repository to show how haml can be used with rails
